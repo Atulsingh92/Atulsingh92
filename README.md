@@ -12,9 +12,22 @@ Skills: Python / Matlab / Ansys Fluent / Solidworks / HPC systems
 - 🔭 I’m currently working on Multi fidelity optimisation 
 - 📫 How to reach me: atulwithsmile@gmail.com 
 
+### Some of my work
 <p align="center">
 <img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/GP.gif" width="512">
 </p>
+
+<p align="center">
+<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/4Presentation.gif" width="512">
+</p>
+
+<!---
+<p float="left">
+  <img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/GP.gif" width="412" />
+  <img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/4Presentation.gif" width="412" /> 
+</p>
+-->
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Atulsingh92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/atulwithsmile/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://indestruct.eu/esrs/)  
 
