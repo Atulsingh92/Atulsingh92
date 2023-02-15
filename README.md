@@ -13,13 +13,25 @@ Skills: Python / Matlab / Ansys Fluent / Solidworks / HPC systems
 - 📫 How to reach me: atulwithsmile@gmail.com 
 
 ### Some of my work
+
+                                                            
 <p align="center">
 <img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/GP.gif" width="512">
 </p>
 
+                                                               This is a Sample GP
+                                 
 <p align="center">
 <img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/4Presentation.gif" width="512">
 </p>
+                                  
+                                  The tubes of a sample heat exchanger are parameterized and automated in a CAD tool
+
+<p align="center">
+<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/LES.gif" width="512">
+</p>
+                                          
+                                          A RANS simulation on a periodic domain of a tube observed on a slice.
 
 <!---
 <p float="left">
