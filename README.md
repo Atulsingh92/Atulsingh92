@@ -33,6 +33,18 @@ Skills: Python / Matlab / Ansys Fluent / Solidworks / HPC systems
                                           
                                           A RANS simulation on a periodic domain of a tube observed on a slice.
 
+<p align="center">
+<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/Tubes.gif" width="512">
+</p>
+                                          
+                                          A parametric tube configuration used for sampling a design space. 
+
+<p align="center">
+<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/GA.gif" width="512">
+</p>
+                                          
+                                    An optimisation probelm example finding the pareto front as well as the parallel plot.
+                                          
 <!---
 <p float="left">
   <img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/GP.gif" width="412" />
