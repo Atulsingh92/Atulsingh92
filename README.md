@@ -7,7 +7,11 @@
 
 </p>
 
-Skills: Python / Matlab / Ansys Fluent / Solidworks / HPC systems
+Skills: 
+
+<p align="center">
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" ><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" ><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+</p>           
 
 - 🔭 I’m currently working on Multi fidelity optimisation 
 - 📫 How to reach me: atulwithsmile@gmail.com 
@@ -20,6 +24,12 @@ Skills: Python / Matlab / Ansys Fluent / Solidworks / HPC systems
 </p>
 
                                              This is a Sample of surrogates created for a thermal system.
+
+<p align="center">
+<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/gpsample.gif" width="824">
+</p>
+
+                                             This is a Sample from GPs.
                                  
 <p align="center">
 <img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/4Presentation.gif" width="612">
@@ -58,21 +68,28 @@ Skills: Python / Matlab / Ansys Fluent / Solidworks / HPC systems
 </p>
 -->
 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Atulsingh92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/atulwithsmile/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://indestruct.eu/esrs/)  
+
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Atulsingh92)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atulsingh92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atulsingh92&show_icons=true&theme=cobalt)  
 
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Atulsingh92)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/Atulsingh92)  
 
+
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Atulsingh92)  
+
 
 ![Profile views](https://gpvc.arturio.dev/Atulsingh92)  
