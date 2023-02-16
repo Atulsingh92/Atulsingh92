@@ -16,34 +16,40 @@ Skills: Python / Matlab / Ansys Fluent / Solidworks / HPC systems
 
                                                             
 <p align="center">
-<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/GP.gif" width="512">
+<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/gpy2.gif" width="824">
 </p>
 
-                                                               This is a Sample GP
+                                             This is a Sample of surrogates created for a thermal system.
                                  
 <p align="center">
-<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/4Presentation.gif" width="512">
+<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/4Presentation.gif" width="612">
 </p>
                                   
                                   The tubes of a sample heat exchanger are parameterized and automated in a CAD tool
 
 <p align="center">
-<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/LES.gif" width="512">
+<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/LES.gif" width="612">
 </p>
                                           
                                           A RANS simulation on a periodic domain of a tube observed on a slice.
 
 <p align="center">
-<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/Tubes.gif" width="512">
+<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/Tubes.gif" width="612">
 </p>
                                           
                                           A parametric tube configuration used for sampling a design space. 
 
 <p align="center">
-<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/GA.gif" width="512">
+<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/GA.gif" width="612">
 </p>
                                           
-                                    An optimisation probelm example finding the pareto front as well as the parallel plot.
+                                    An optimisation problem example finding the pareto front as well as the parallel plot.
+
+<p align="center">
+<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/5obj.gif" width="612">
+</p>
+                                          
+                                    An optimisation problem example finding the pareto for a multi-objective problem.
                                           
 <!---
 <p float="left">
