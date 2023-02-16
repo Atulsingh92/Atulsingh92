@@ -24,6 +24,12 @@ Skills:
 </p>
 
                                              This is a Sample of surrogates created for a thermal system.
+                                             
+<p align="center">
+<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/surrogates2.gif" width="824">
+</p>
+
+                                     From one of my projects in 2019. Gaussian process on an Truck subsystem
 
 <p align="center">
 <img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/gpsample.gif" width="824">
