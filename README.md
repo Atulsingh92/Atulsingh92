@@ -23,7 +23,7 @@ Skills:
 <img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/gpy2.gif" width="824">
 </p>
 
-                                             This is a Sample of surrogates created for a thermal system.
+                                         This is a sample from set of surrogates created for a thermal system.
                                              
 <p align="center">
 <img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/surrogates2.gif" width="824">
@@ -35,13 +35,13 @@ Skills:
 <img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/gpsample.gif" width="824">
 </p>
 
-                                             This is a Sample from GPs.
+                                         This is a sample from Gaussian processes.
                                  
 <p align="center">
-<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/4Presentation.gif" width="612">
+<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/continuous.gif" width="612">
 </p>
                                   
-                                  The tubes of a sample heat exchanger are parameterized and automated in a CAD tool
+                          The tubes of a sample heat exchanger are parameterized and automated in a CAD tool
 
 <p align="center">
 <img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/LES.gif" width="612">
