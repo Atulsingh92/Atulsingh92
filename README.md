@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Atul. Glad to make your acquaintance. 
-#### Currently a PhD student at Uni Southampton. 
+#### Currently a Marie-Curie Fellow-ITN (fancy word for a PhD student) at Uni Southampton. 
 <p align="center">
 
   <img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/Hanuman.png">
-  Hanuman saving the day.
+  I feel a deep connect with the "problem solving" attribute (one of thousands) of Lord Hanuman. Also a monkey flying with a freaking mountain is just downright epic!
 
 </p>
 
@@ -66,6 +66,12 @@ Skills:
 </p>
                                           
                                     An optimisation problem example finding the pareto for a multi-objective problem.
+
+<p align="center">
+<img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/Farming.jpg" width="612">
+</p>
+                                          
+                    From my farming endevours, where the sugarcane is 6(my height) + 3 (arm length) feet long. That's something, if you know farming.
                                           
 <!---
 <p float="left">
