@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Atul. Glad to make your acquaintance. 
-#### Currently a Marie-Curie Fellow-ITN (fancy word for a PhD student) at Uni Southampton. 
+#### Previously a Marie-Curie Fellow-ITN (fancy word for a PhD student) at Uni Southampton. Now employed as an Application Engineer at Vienna Scientific Cluster(VSC)" 
 <p align="center">
 
   <img src="https://github.com/Atulsingh92/Atulsingh92/blob/main/Hanuman.png">
