@@ -13,7 +13,7 @@ Skills:
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /><img height=50 src="https://github.com/GPflow/GPflow/blob/develop/doc/sphinx/_static/gpflow_logo.svg"><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" ><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" ><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 </p>           
 
-- 🔭 I’m currently working on Multi fidelity optimisation 
+- 🔭 I’m worked on Multi fidelity optimisation during my PhD, now working with HPC systems, both frontend as well as backend. 
 - 📫 How to reach me: atulwithsmile@gmail.com 
 
 ### Some of my work
